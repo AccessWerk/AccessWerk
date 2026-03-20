@@ -5,6 +5,8 @@ Elektroniker → FISI-Umschüler → IT-Infrastruktur
 Bavaria, Germany
 |
 https://accesswerk.de
+|
+est.2026
 
 <!--
 **AccessWerk/AccessWerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
