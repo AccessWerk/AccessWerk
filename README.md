@@ -1,5 +1,7 @@
 # AccessWerk
 
+---
+
 > Öffentlich nachvollziehbarer Kompetenzaufbau — in Echtzeit.
 
 ---
@@ -35,7 +37,12 @@ Stattdessen: Etwas wird im Lab gebaut, im Praktikum gelernt, in der Umschulung v
 
 Aber primär als Nachweis: dass es gemacht wurde, wie entschieden wurde, und was dabei gelernt wurde.
 
+---
+
 > AccessWerk wächst genau so schnell wie Alex. Nicht schneller - Nicht langsamer.
+
+---
+
 > Das ist kein Nachteil — das ist das Konzept.
 
 ---
