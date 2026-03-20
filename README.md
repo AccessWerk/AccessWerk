@@ -1,9 +1,9 @@
 Name:     Alex K.
-
-Bio:      Elektroniker → FISI-Umschüler → IT-Infrastruktur | accesswerk.de
-
+|
+Bio:      Elektroniker → FISI-Umschüler → IT-Infrastruktur 
+|
 Location: Bavaria, Germany
-
+|
 Website:  https://accesswerk.de
 
 <!--
