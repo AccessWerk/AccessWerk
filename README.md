@@ -1,7 +1,10 @@
 Name:     Alex K.
-    Bio:      Elektroniker → FISI-Umschüler → IT-Infrastruktur | accesswerk.de
-    Location: Bavaria, Germany
-    Website:  https://accesswerk.de
+
+Bio:      Elektroniker → FISI-Umschüler → IT-Infrastruktur | accesswerk.de
+
+Location: Bavaria, Germany
+
+Website:  https://accesswerk.de
 
 <!--
 **AccessWerk/AccessWerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
