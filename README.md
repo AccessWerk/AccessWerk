@@ -21,7 +21,7 @@ Was hier liegt, wurde gebaut, konfiguriert, debuggt und verstanden. Nicht für C
 Alex K. 34Jahre alt. Elektroniker für Energie- und Gebäudetechnik — 17 Jahre, davon mehrere in der Projektleitung.  
 Aktuell: Umschulung zum Fachinformatiker Systemintegration (IHK, Abschluss 2027). Praktikum bei einem MSP im KMU-Umfeld.
 
-Der Schritt in die IT ist eine enorme Erweiterung meines Fähigkeiten.
+Der Schritt in die IT ist eine enorme Erweiterung meiner Fähigkeiten.
 
 Der Elektriker-Hintergrund bringt mir Versändins in der Gebäudetechnik. 
 
